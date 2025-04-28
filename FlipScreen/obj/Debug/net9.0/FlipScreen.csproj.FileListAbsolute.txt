@@ -1,0 +1,28 @@
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/bin/Debug/net9.0/FlipScreen
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/bin/Debug/net9.0/FlipScreen.deps.json
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/bin/Debug/net9.0/FlipScreen.runtimeconfig.json
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/bin/Debug/net9.0/FlipScreen.dll
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/bin/Debug/net9.0/FlipScreen.pdb
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/FlipScreen.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/FlipScreen.AssemblyInfoInputs.cache
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/FlipScreen.AssemblyInfo.cs
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/FlipScreen.csproj.CoreCompileInputs.cache
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/FlipScreen.dll
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/refint/FlipScreen.dll
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/FlipScreen.pdb
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/FlipScreen.genruntimeconfig.cache
+/home/kaydee/RiderProjects/Flip Screen/FlipScreen/obj/Debug/net9.0/ref/FlipScreen.dll
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/bin/Debug/net9.0/FlipScreen
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/bin/Debug/net9.0/FlipScreen.deps.json
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/bin/Debug/net9.0/FlipScreen.runtimeconfig.json
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/bin/Debug/net9.0/FlipScreen.dll
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/bin/Debug/net9.0/FlipScreen.pdb
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/FlipScreen.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/FlipScreen.AssemblyInfoInputs.cache
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/FlipScreen.AssemblyInfo.cs
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/FlipScreen.csproj.CoreCompileInputs.cache
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/FlipScreen.dll
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/refint/FlipScreen.dll
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/FlipScreen.pdb
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/FlipScreen.genruntimeconfig.cache
+/home/kaydee/RiderProjects/FlipScreen/FlipScreen/obj/Debug/net9.0/ref/FlipScreen.dll
